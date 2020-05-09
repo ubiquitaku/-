@@ -1,0 +1,6 @@
+name: MECSCheque
+version: ${project.version}
+main: ubiquitaku.mecscheque.MECSCheque
+api-version: 1.13
+commands:
+  mcheque:
